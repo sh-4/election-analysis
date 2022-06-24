@@ -14,7 +14,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - SoftwareL Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Results
-The analysis of the election shows that:
+![election_results](https://user-images.githubusercontent.com/105808695/175662007-6b5ddb22-ebe1-485e-8b11-e9f664911dad.png)
+
+As seen in the above image, the analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The counties were:
     - Jefferson
