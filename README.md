@@ -18,7 +18,8 @@ At the request of the Colorado Board of Elections, I have completed the followin
 - SoftwareL Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Results
-![election_results](https://user-images.githubusercontent.com/105808695/175662007-6b5ddb22-ebe1-485e-8b11-e9f664911dad.png)
+
+![election_results](https://user-images.githubusercontent.com/105808695/175697908-1faac262-37ea-4de3-bcb2-2876d0fc4829.png)
 
 As seen in the above image, the analysis of the election shows that:
 - There were 369,711 votes cast in the election.
@@ -32,6 +33,9 @@ As seen in the above image, the analysis of the election shows that:
     - Arapahoe County received 6.7% of the vote and 24,801 number of votes.
 - The county with the largest voter turnout was:
     - Denver County, which received 82.8% of the vote and 306,055 number of votes.
+
+![county_results](https://user-images.githubusercontent.com/105808695/175697790-ecddc344-bf9c-4c60-992a-54ed591fbd8f.png)
+
 - The candidates in the election were:
   - Charles Casper Stockham
   - Diana DeGette
@@ -42,7 +46,9 @@ As seen in the above image, the analysis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-  
+
+![the_candidate_results](https://user-images.githubusercontent.com/105808695/175697811-92c537b7-70ea-4d0c-8018-f6ff15142d1e.png)
+
 ## Election Audit Summary
 ### How this code can be used for future projects
 This code could be used as a base for any future election. One example would be that it could be modified for educational purposes. If grade schools in each state were given surveys for proposed changes to the state’s curriculum, the candidate names could be swapped with the options up for a change. The counties could be swapped out for the varying school districts. This could allow the educational staff in each district to provide valuable input for changes that would directly affect them.
