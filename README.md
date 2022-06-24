@@ -13,9 +13,19 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - SoftwareL Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
+## Results
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county results were:
+    - Jefferson County received 10.5% of the vote and 38,855 number of votes.
+    - Denver County received 82.8% of the vote and 306,055 number of votes.
+    - Arapahoe County received 6.7% of the vote and 24,801 number of votes.
+- The county with the largest voter turnout was:
+    - Denver County, which received 82.8% of the vote and 306,055 number of votes.
 - The candidates were
   - Charles Casper Stockham
   - Diana DeGette
@@ -27,6 +37,5 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
-  ## Challenge Overview
+  ## Election Audit Summary
   
-  ## Challenge Summary
